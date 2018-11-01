@@ -66,7 +66,7 @@ class Clock implements ClockInterface {
   }
 
   private get secondsStr (): string {
-    return "<span>" + this.seconds + "</span>:"
+    return "<span>" + this.seconds + "</span>"
   }
 
   private pad (n: number): string {
