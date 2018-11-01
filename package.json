@@ -1,15 +1,15 @@
 {
   "name": "count-down",
-  "url": "https://github.com/xiaxiangfeng/e2number-string/issues",
+  "url": "",
   "email": "876029169@qq.com",
   "version": "1.0.0",
   "description": "",
   "author": "xiaxiangfeng",
   "private": false,
-  "main": "lib/e2number.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xiaxiangfeng/e2number-string"
+    "url": ""
   },
   "scripts": {
     "build": "node build/build.js",

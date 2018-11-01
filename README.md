@@ -18,6 +18,11 @@ clockObj.stop()
 # 打包编译实例代码
 # 用浏览器打开example文件夹下的index.html
 npm run build
+``` 
+
+## 创建类库
+
+``` bash
 # 打包类库（把ts编译成es5代码）
 npm run prepublish
 ``` 
