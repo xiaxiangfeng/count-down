@@ -26,3 +26,6 @@ npm run build
 # 打包类库（把ts编译成es5代码）
 npm run prepublish
 ``` 
+
+## 演示地址
+http://xiaxiangfeng.github.io/count-down/
