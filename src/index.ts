@@ -2,7 +2,7 @@ import ClockInterface from './index.interface'
 
 class Clock implements ClockInterface {
 
-  constructor(id: string, time :string = '2018/01/01 00:00:00', visibleDays: boolean) {
+  constructor(id: string, time: string = '2018/01/01 00:00:00', visibleDays: boolean) {
 
     this.targetDate = new Date(time).getTime()
 
